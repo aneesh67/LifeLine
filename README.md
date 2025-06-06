@@ -1,1 +1,1 @@
-
+🧠 AI-Driven Healthcare Disease Prediction System This project is a full-stack web application designed to predict diseases based on user-input symptoms using machine learning models. It aims to assist users in getting early insights about potential health conditions by leveraging data-driven AI algorithms.
